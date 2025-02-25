@@ -22,7 +22,7 @@ I’m a student who's looking to break into Computer Science. I've got some prio
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [a network vulnerability scanner](https://github.com/Cucuteanu-Tudor-912/network-vulnerability-scanner)  
   
@@ -40,7 +40,7 @@ I’m a student who's looking to break into Computer Science. I've got some prio
 </div>  
 
 
-</td></tr></table>  
+</td></table>  
 
 <br/>  
 
