@@ -15,7 +15,7 @@
 
 
 ### Welcome to my little internet island!  
-I’m a student who's looking to break into Computer Science. I've got some prior experience in the field, and a passion for Cyber-security.🕵️  
+#### I’m a student who's looking to break into Computer Science. I've got some prior experience in the field, and a passion for Cyber-security.🕵️  
   
 
 <br/>  
