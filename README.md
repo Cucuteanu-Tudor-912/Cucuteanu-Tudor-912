@@ -100,6 +100,3 @@ I’m a student who's looking to break into Computer Science. I've got some prio
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
