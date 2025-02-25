@@ -36,7 +36,7 @@ I’m a student who's looking to break into Computer Science. I've got some prio
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://Cucuteanu-Tudor-912.github.io/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/Cucuteanu-Tudor-912/Cucuteanu-Tudor-912/blob/main/images/error.gif" align="center" style="width: 100%" />
 </div>  
 
 
