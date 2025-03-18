@@ -24,7 +24,7 @@
 ## Rapidfire  
 <td valign="top" width="50%">
 
-- 🔭 I’m currently working on [a network vulnerability scanner](https://github.com/Cucuteanu-Tudor-912/network-vulnerability-scanner)  
+- 🔭 I’m currently working on [Counter-Strike item journal]([https://github.com/Bogzx/CS-Weekly-Item-Journal])  
   
 
 - 🐧 I’m currently learning Three.js and Regex  
