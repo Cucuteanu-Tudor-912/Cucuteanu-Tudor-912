@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on a [Counter-Strike item journal](https://github.com/Bogzx/CS-Weekly-Item-Journal)
   
 
-- 🐧 I’m currently learning Three.js and Regex  
+- 🐧 I’m currently learning Rust and Regex  
   
 
 - ❓ Ask me about anything about the OSI model  
