@@ -24,13 +24,11 @@
 ## Rapidfire  
 <td valign="top" width="50%">
 
-- 🔭 I’m currently working on a [Counter-Strike item journal](https://github.com/Bogzx/CS-Weekly-Item-Journal)
+- 🔭 I’m currently working on DMA Firmware
   
 
-- 🐧 I’m currently learning Rust and Regex  
-  
-
-- ❓ Ask me about anything about the OSI model  
+- 🐧 I’m currently learning Rust  
+    
 
 
 </td><td valign="top" width="50%">
