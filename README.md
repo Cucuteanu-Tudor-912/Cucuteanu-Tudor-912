@@ -31,9 +31,7 @@
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://github.com/Cucuteanu-Tudor-912/Cucuteanu-Tudor-912/blob/main/images/error.gif" align="center" style="width: 100%" />
-</div>  
+
 
 
 </td> 
