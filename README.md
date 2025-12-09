@@ -22,7 +22,7 @@
 ## Rapidfire  
 <td valign="top" width="50%">
 
-- 🔭 I’m currently working on DMA Firmware
+- 🔭 I’m currently working on DMA/FPGA Firmware
   
 
 - 🐧 I’m currently learning Rust  
